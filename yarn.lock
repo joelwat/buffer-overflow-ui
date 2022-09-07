@@ -3635,7 +3635,7 @@ __metadata:
     "@yarnpkg/pnpify": 2.4.0
     codelyzer: 6.0.2
     jasmine-core: 3.99.1
-    jasmine-spec-reporter: 6.0.0
+    jasmine-spec-reporter: 7.0.0
     karma: 6.4.0
     karma-chrome-launcher: 3.1.1
     karma-coverage: 2.2.0
@@ -7398,12 +7398,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jasmine-spec-reporter@npm:6.0.0":
-  version: 6.0.0
-  resolution: "jasmine-spec-reporter@npm:6.0.0"
+"jasmine-spec-reporter@npm:7.0.0":
+  version: 7.0.0
+  resolution: "jasmine-spec-reporter@npm:7.0.0"
   dependencies:
     colors: 1.4.0
-  checksum: c91278c1f9f13556f347a42ae489ae5c976e1bec3f96105a0c0465af0d237234c75c8072e847c41192608e25774fd6cf9524d270d30537ced85832814408b0cb
+  checksum: d5dd5ee26aad98158653776111231889b21b6cffa136d712a814058ad099301045fa2b95f887fcdeaa20e2a82c3896ffd43b47e25190ddfc921782b09088224e
   languageName: node
   linkType: hard
 

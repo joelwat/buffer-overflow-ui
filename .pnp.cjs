@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@yarnpkg/pnpify", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:2.4.0"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
-            ["jasmine-spec-reporter", "npm:6.0.0"],\
+            ["jasmine-spec-reporter", "npm:7.0.0"],\
             ["karma", "npm:6.4.0"],\
             ["karma-chrome-launcher", "npm:3.1.1"],\
             ["karma-coverage", "npm:2.2.0"],\
@@ -4980,7 +4980,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@yarnpkg/pnpify", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:2.4.0"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
-            ["jasmine-spec-reporter", "npm:6.0.0"],\
+            ["jasmine-spec-reporter", "npm:7.0.0"],\
             ["karma", "npm:6.4.0"],\
             ["karma-chrome-launcher", "npm:3.1.1"],\
             ["karma-coverage", "npm:2.2.0"],\
@@ -9313,10 +9313,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["jasmine-spec-reporter", [\
-        ["npm:6.0.0", {\
-          "packageLocation": "./.yarn/cache/jasmine-spec-reporter-npm-6.0.0-575b473233-c91278c1f9.zip/node_modules/jasmine-spec-reporter/",\
+        ["npm:7.0.0", {\
+          "packageLocation": "./.yarn/cache/jasmine-spec-reporter-npm-7.0.0-3a0ed20df7-d5dd5ee26a.zip/node_modules/jasmine-spec-reporter/",\
           "packageDependencies": [\
-            ["jasmine-spec-reporter", "npm:6.0.0"],\
+            ["jasmine-spec-reporter", "npm:7.0.0"],\
             ["colors", "npm:1.4.0"]\
           ],\
           "linkType": "HARD"\
