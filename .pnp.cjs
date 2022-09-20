@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
             ["jasmine-spec-reporter", "npm:6.0.0"],\
-            ["karma", "npm:6.4.0"],\
+            ["karma", "npm:6.4.1"],\
             ["karma-chrome-launcher", "npm:3.1.1"],\
             ["karma-coverage", "npm:2.2.0"],\
             ["karma-jasmine", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:4.0.2"],\
@@ -152,7 +152,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["https-proxy-agent", "npm:5.0.0"],\
             ["inquirer", "npm:7.3.3"],\
             ["jest-worker", "npm:26.6.2"],\
-            ["karma", "npm:6.4.0"],\
+            ["karma", "npm:6.4.1"],\
             ["karma-source-map-support", "npm:1.4.0"],\
             ["less", "npm:4.1.1"],\
             ["less-loader", "virtual:54519689567c094cec1d847b3b3c9e2a75cf34b5977f736f5d91ef13357b95141c3bad13c025922007fafd1c7f89405a8ca676d5c23b6aea067790a83a547c59#npm:7.3.0"],\
@@ -5065,7 +5065,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
             ["jasmine-spec-reporter", "npm:6.0.0"],\
-            ["karma", "npm:6.4.0"],\
+            ["karma", "npm:6.4.1"],\
             ["karma-chrome-launcher", "npm:3.1.1"],\
             ["karma-coverage", "npm:2.2.0"],\
             ["karma-jasmine", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:4.0.2"],\
@@ -9629,10 +9629,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["karma", [\
-        ["npm:6.4.0", {\
-          "packageLocation": "./.yarn/cache/karma-npm-6.4.0-21decffb13-c449df10ae.zip/node_modules/karma/",\
+        ["npm:6.4.1", {\
+          "packageLocation": "./.yarn/cache/karma-npm-6.4.1-5443d36ee9-e2dc2d9d4d.zip/node_modules/karma/",\
           "packageDependencies": [\
-            ["karma", "npm:6.4.0"],\
+            ["karma", "npm:6.4.1"],\
             ["@colors/colors", "npm:1.5.0"],\
             ["body-parser", "npm:1.19.1"],\
             ["braces", "npm:3.0.2"],\
@@ -9700,7 +9700,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["karma-jasmine", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:4.0.2"],\
             ["@types/karma", null],\
             ["jasmine-core", "npm:3.99.0"],\
-            ["karma", "npm:6.4.0"]\
+            ["karma", "npm:6.4.1"]\
           ],\
           "packagePeers": [\
             "@types/karma",\
@@ -9725,7 +9725,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/karma", null],\
             ["@types/karma-jasmine", null],\
             ["jasmine-core", "npm:3.99.1"],\
-            ["karma", "npm:6.4.0"],\
+            ["karma", "npm:6.4.1"],\
             ["karma-jasmine", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:4.0.2"]\
           ],\
           "packagePeers": [\
