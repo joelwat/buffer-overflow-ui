@@ -58,7 +58,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["protractor", "npm:7.0.0"],\
             ["rxjs", "npm:6.6.7"],\
             ["ts-node", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:10.9.1"],\
-            ["tslib", "npm:2.5.2"],\
+            ["tslib", "npm:2.5.3"],\
             ["tslint", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.1.3"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=a1c5e5"],\
             ["zone.js", "npm:0.13.0"]\
@@ -5130,7 +5130,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["protractor", "npm:7.0.0"],\
             ["rxjs", "npm:6.6.7"],\
             ["ts-node", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:10.9.1"],\
-            ["tslib", "npm:2.5.2"],\
+            ["tslib", "npm:2.5.3"],\
             ["tslint", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.1.3"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=a1c5e5"],\
             ["zone.js", "npm:0.13.0"]\
@@ -15140,10 +15140,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:2.5.2", {\
-          "packageLocation": "./.yarn/cache/tslib-npm-2.5.2-3f1b58afbb-4d3c1e238b.zip/node_modules/tslib/",\
+        ["npm:2.5.3", {\
+          "packageLocation": "./.yarn/cache/tslib-npm-2.5.3-7756051e02-88902b309a.zip/node_modules/tslib/",\
           "packageDependencies": [\
-            ["tslib", "npm:2.5.2"]\
+            ["tslib", "npm:2.5.3"]\
           ],\
           "linkType": "HARD"\
         }]\
