@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@angular/platform-browser", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/platform-browser-dynamic", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/router", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
-            ["@types/jasmine", "npm:4.3.6"],\
+            ["@types/jasmine", "npm:5.1.0"],\
             ["@types/node", "npm:18.18.3"],\
             ["@yarnpkg/pnpify", "npm:3.1.6"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
@@ -3439,10 +3439,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jasmine", [\
-        ["npm:4.3.6", {\
-          "packageLocation": "./.yarn/cache/@types-jasmine-npm-4.3.6-073ae5067b-1dd9cc3633.zip/node_modules/@types/jasmine/",\
+        ["npm:5.1.0", {\
+          "packageLocation": "./.yarn/cache/@types-jasmine-npm-5.1.0-9c0cd50509-29a11ac0c4.zip/node_modules/@types/jasmine/",\
           "packageDependencies": [\
-            ["@types/jasmine", "npm:4.3.6"]\
+            ["@types/jasmine", "npm:5.1.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5116,7 +5116,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@angular/platform-browser", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/platform-browser-dynamic", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/router", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
-            ["@types/jasmine", "npm:4.3.6"],\
+            ["@types/jasmine", "npm:5.1.0"],\
             ["@types/node", "npm:18.18.3"],\
             ["@yarnpkg/pnpify", "npm:3.1.6"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
