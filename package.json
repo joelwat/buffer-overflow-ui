@@ -19,7 +19,7 @@
     "@angular/platform-browser": "11.2.14",
     "@angular/platform-browser-dynamic": "11.2.14",
     "@angular/router": "11.2.14",
-    "@yarnpkg/pnpify": "3.1.6",
+    "@yarnpkg/pnpify": "4.0.0",
     "rxjs": "6.6.7",
     "tslib": "2.6.2",
     "zone.js": "0.14.0"
