@@ -45,7 +45,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@angular/platform-browser-dynamic", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/router", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@types/jasmine", "npm:4.6.1"],\
-            ["@types/node", "npm:18.18.8"],\
+            ["@types/node", "npm:18.18.9"],\
             ["@yarnpkg/pnpify", "npm:4.0.0"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
@@ -3488,10 +3488,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.18.8", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.18.8-5aef4defda-d6a82bfc28.zip/node_modules/@types/node/",\
+        ["npm:18.18.9", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.18.9-db29fe3223-629ce20357.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.18.8"],\
+            ["@types/node", "npm:18.18.9"],\
             ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
@@ -5001,7 +5001,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@angular/platform-browser-dynamic", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@angular/router", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:11.2.14"],\
             ["@types/jasmine", "npm:4.6.1"],\
-            ["@types/node", "npm:18.18.8"],\
+            ["@types/node", "npm:18.18.9"],\
             ["@yarnpkg/pnpify", "npm:4.0.0"],\
             ["codelyzer", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.0.2"],\
             ["jasmine-core", "npm:3.99.1"],\
@@ -14804,7 +14804,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.11"],\
             ["@tsconfig/node14", "npm:1.0.3"],\
             ["@tsconfig/node16", "npm:1.0.3"],\
-            ["@types/node", "npm:18.18.8"],\
+            ["@types/node", "npm:18.18.9"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
