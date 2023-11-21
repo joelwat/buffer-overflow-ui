@@ -2304,10 +2304,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jasmine@npm:4.6.2":
-  version: 4.6.2
-  resolution: "@types/jasmine@npm:4.6.2"
-  checksum: c9f6ae520dbdc30c07219298df333cd9ecbf463b8afc074d277065bcd62053ff54ce1fcb9e10486a1d94517ab09c283f36a45bd1ccd14e666b92027938da09ab
+"@types/jasmine@npm:4.6.3":
+  version: 4.6.3
+  resolution: "@types/jasmine@npm:4.6.3"
+  checksum: d37ec3c92057e868d72bfed1d395ba0aa5c1ccbf8970d594b22125b2e323eccf00a230c6bfa887d791521c0305c147a458fb765512401f2a54be1d6f8a3ea2a3
   languageName: node
   linkType: hard
 
@@ -3651,7 +3651,7 @@ __metadata:
     "@angular/platform-browser": 11.2.14
     "@angular/platform-browser-dynamic": 11.2.14
     "@angular/router": 11.2.14
-    "@types/jasmine": 4.6.2
+    "@types/jasmine": 4.6.3
     "@types/node": 18.18.11
     "@yarnpkg/pnpify": 4.0.0
     codelyzer: 6.0.2
