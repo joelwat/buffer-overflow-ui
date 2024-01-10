@@ -61,7 +61,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["tslib", "npm:2.6.2"],\
             ["tslint", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.1.3"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=a1c5e5"],\
-            ["zone.js", "npm:0.14.1"]\
+            ["zone.js", "npm:0.14.3"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -440,7 +440,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/zone.js", null],\
             ["rxjs", "npm:6.6.7"],\
             ["tslib", "npm:2.3.1"],\
-            ["zone.js", "npm:0.14.1"]\
+            ["zone.js", "npm:0.14.3"]\
           ],\
           "packagePeers": [\
             "@types/rxjs",\
@@ -5025,7 +5025,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["tslib", "npm:2.6.2"],\
             ["tslint", "virtual:27f9c39ccb5d906c3693d16be0046cb9dc84bfa9fd0745c12f6239053dc0f08f2b95ea28e4ad397ce5ecd01145fb78767f37b5715b876aa58332e629fb0cfad2#npm:6.1.3"],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=a1c5e5"],\
-            ["zone.js", "npm:0.14.1"]\
+            ["zone.js", "npm:0.14.3"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -16070,10 +16070,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:0.14.1", {\
-          "packageLocation": "./.yarn/cache/zone.js-npm-0.14.1-7179faaf13-cdc71ac832.zip/node_modules/zone.js/",\
+        ["npm:0.14.3", {\
+          "packageLocation": "./.yarn/cache/zone.js-npm-0.14.3-2f756ca8e0-6150e7f347.zip/node_modules/zone.js/",\
           "packageDependencies": [\
-            ["zone.js", "npm:0.14.1"],\
+            ["zone.js", "npm:0.14.3"],\
             ["tslib", "npm:2.4.0"]\
           ],\
           "linkType": "HARD"\
