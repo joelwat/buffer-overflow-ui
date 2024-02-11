@@ -2348,12 +2348,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.9":
-  version: 18.19.9
-  resolution: "@types/node@npm:18.19.9"
+"@types/node@npm:18.19.15":
+  version: 18.19.15
+  resolution: "@types/node@npm:18.19.15"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 8ffd4043ada193cf32d4c13eb850e8c510d4c96504c62fdc5326b3bb2c7ddc2c81892c351b2c0c403c29df3ab13c864a370f0282daf6d3380ba3c2001728a643
+  checksum: 8ebad6b0a010ff01a841c2d99a464993ee22348aff476e95276c17a9a72f336f4a395940c59c4f21e10ef50ed79a7811a60d562099a87c476d241e8b37e3cdd5
   languageName: node
   linkType: hard
 
@@ -3661,7 +3661,7 @@ __metadata:
     "@angular/platform-browser-dynamic": 11.2.14
     "@angular/router": 11.2.14
     "@types/jasmine": 4.6.4
-    "@types/node": 18.19.9
+    "@types/node": 18.19.15
     "@yarnpkg/pnpify": 4.0.1
     codelyzer: 6.0.2
     jasmine-core: 3.99.1
